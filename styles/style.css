@@ -1,0 +1,59 @@
+body {
+  	background-image: url('../images/2.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+	text-align: center;
+}
+
+p {
+	font-size: 20px;
+	text-align: center;
+}
+
+.body {
+
+}
+
+.blue {
+	color: #715588;
+}
+
+.white {
+	color: #730375;
+}
+
+.smallText {
+	width: 50%;
+	text-align: center;
+	margin: auto;
+}
+
+.container {
+	text-align: center;
+}
+
+.content {
+    width: 70%;
+    margin: auto;
+    background: white;
+    padding: 1em;
+    border: 0.5em dotted purple;
+}
+
+.footer {
+	width: 70%;
+	margin: auto;
+	text-align: center;
+}
+
+.inputButton {
+	list-style: none;
+}
